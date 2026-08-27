@@ -1,2 +1,1 @@
-# gitkurssi
-comp.cs.060 kurssi
+#This is a README
